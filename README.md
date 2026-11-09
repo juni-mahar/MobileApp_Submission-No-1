@@ -1,10 +1,14 @@
 # Mobile Application Development - Assignment 1
 
-**Name:** Muhammad Junaid
-**ID:*** F2023266884
-**Course:** Mobile Application Development
-**Instructor:** M. Shahbaz Ali
-**University:** University of Management and Technology (UMT)
+## **Name:** Muhammad Junaid
+
+## **ID:*** F2023266884
+
+## **Course:** Mobile Application Development
+
+## **Instructor:** M. Shahbaz Ali
+
+## **University:** University of Management and Technology (UMT)
 
 ## React Native Setup Proof
 
